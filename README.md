@@ -9,7 +9,11 @@ Clean colours based on the [Seti](https://github.com/setitheme/seti) colour sche
 ---
 
 ## Showcase.
-![Setinox](/_assets/preview.png)
+![Setinox](/_assets/preview_1.png)
+
+![Setinox](/_assets/preview_2.png)
+
+![Setinox](/_assets/preview_3.png)
 
 Font: **SFMono Nerd Font**.
 

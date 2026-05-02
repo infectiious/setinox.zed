@@ -1,0 +1,13 @@
+### Lua ###
+/luarocks
+/lua
+/lua_modules
+/.luarocks
+
+### macOS ###
+.DS_Store
+
+### misc ###
+/assets
+/bin
+/examples
